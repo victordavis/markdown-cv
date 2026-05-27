@@ -4,6 +4,8 @@ A curriculum vitae maintained in plain text and rendered to HTML and PDF using C
 
 For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
+For more details on the CSS theme/format, see [LapisCV](https://github.com/BingyanStudio/LapisCV).
+
 ### Author
 
 Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
