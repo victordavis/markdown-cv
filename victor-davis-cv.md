@@ -29,7 +29,7 @@ _Dec 2022 - May 2024_
 
 Principal developer of a document extraction service in the insurance industry. Strong grounding in math concepts (graph theory, Bayesian inference, information theory, linear algebra) and machine learning approaches used to build and scale an in-house product for machine-assisted data entry.
 
-
+<div style="page-break-after: always;"></div>
 
 ### Software Engineer @ Toptal (REMOTE)
 
@@ -71,7 +71,7 @@ Principal developer of the Data Analytics library for a FinTech startup building
 - Integrated and collaborated with high-level team in a prize-winning FinTech startup
 - Presented company product and vision at third annual WBS conference
 
-
+<div style="page-break-after: always;"></div>
 
 ### IT Consultant @ Boaz Media Network Solutions | Blairsville, GA
 
@@ -110,7 +110,7 @@ Worked my way up from sales rep to sales manager to branch manager. I have negot
 - Conducted individual & group interviews, ran training classes, managed a team of sales reps
 - Created $98,000 in new business managing a seasonal branch office in Columbus, GA.
 
-
+<div style="page-break-after: always;"></div>
 
 ## 🎓 Education
 
@@ -122,7 +122,7 @@ _Jan 2005 - Jan 2007_
 
 ## 📚 Publications
 
-- *[“Types, Tokens, and Hapaxes: A New Heap’s Law.” Glottotheory 9 (2018): 113 - 129.](https://arxiv.org/abs/1901.00521)*
+- [Davis, Victor. "Types, Tokens, and Hapaxes: A New Heap’s Law." _Glottotheory_ 9.2 (2019): 113-129.](https://arxiv.org/abs/1901.00521)
 
 
 
