@@ -38,13 +38,13 @@ _Dec 2017 - Dec 2022_
 
 Contracted with a wide variety of clients contributing to products related to backend development, data wrangling, machine learning, artificial intelligence, data science, data visualization, and numerical optimization.
 
-- Tested and optimized code for a hotel pricing software (R) | Brussels, BE
-- Created BI dashboards for pediatric doctors securely sharing anonymized diagnosis and treatment information across regional centers in South America (R) | Santiago, CL
-- Principal developer of the data analytics library for a FinTech startup building, validating, and monitoring financial models (Python) | Brussels, BE
-- Corporate trainer teaching the R programming language (R) | Seattle, US
-- Presented talks at trade conferences and published in trade journals | New York, US
-- Backend developer & data scientist contributing to a B2B Marketing SaaS product (Python) | London, UK
-- Data science consultant for an early-stage sports marketing startup (R, Python) | Georgensgmuend, DE
+- Tested and optimized code for a hotel pricing software (R) \| Brussels, BE
+- Created BI dashboards for pediatric doctors securely sharing anonymized diagnosis and treatment information across regional centers in South America (R) \| Santiago, CL
+- Principal developer of the data analytics library for a FinTech startup building, validating, and monitoring financial models (Python) \| Brussels, BE
+- Corporate trainer teaching the R programming language (R) \| Seattle, US
+- Presented talks at trade conferences and published in trade journals \| New York, US
+- Backend developer & data scientist contributing to a B2B Marketing SaaS product (Python) \| London, UK
+- Data science consultant for an early-stage sports marketing startup (R, Python) \| Georgensgmuend, DE
 
 
 
