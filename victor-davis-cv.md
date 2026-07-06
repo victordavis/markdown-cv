@@ -120,7 +120,7 @@ Started as an entry-level sales representative, promoted to sales manager at hom
 
 ### BS, Mathematics @ Southern Polytechnic State University | Marietta, GA
 
-_Jan 2005 - Jan 2007_
+_Aug 2005 - Dec 2007_
 
 
 
