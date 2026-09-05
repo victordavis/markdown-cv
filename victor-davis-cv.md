@@ -17,6 +17,8 @@ _Aug 2026 - Present_
 
 Working closely with the translation team designing and optimizing machine learning solutions that enhance the company's translation and localization capabilities. Focused on developing neural machine translation models optimized for low-resource and specialized languages, improving post-editing workflows, and integrating AI seamlessly with linguist workflows to deliver faster and more accurate translations.
 
+
+
 ### Machine Learning Engineer @ Resultant | Indianapolis, IN (REMOTE)
 
 _Jun 2024 - Aug 2026_
